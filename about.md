@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+기계공학과 2017035787 채민호  
+전기공학과 2016026608 강민지
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alswl7763@hanyang.ac.kr](mailto:email@domain.com)
